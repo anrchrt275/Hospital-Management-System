@@ -23,20 +23,15 @@ Sistem manajemen rumah sakit berbasis web yang dikembangkan untuk memudahkan pen
 
 ## Instalasi & Penggunaan
 
-1. **Clone Repository**
-   ```
-   git clone https://github.com/username/namaproject.git
-   ```
-
-2. **Konfigurasi Database**
+1. **Konfigurasi Database**
    - Import file `aquorder_db_rio.sql` ke MySQL/MariaDB Anda.
    - Edit file `assets/config/config.php` untuk menyesuaikan konfigurasi database.
 
-3. **Jalankan di Web Server**
+2. **Jalankan di Web Server**
    - Pastikan folder `assets` berada di dalam root web server (misal: `htdocs`/`public_html`).
    - Akses melalui browser: `http://localhost/assets/login.php`
 
-4. **Akun Default**
+3. **Akun Default**
    - Buat akun melalui halaman register atau gunakan data pada tabel `users` di database.
 
 ## Struktur Folder
@@ -78,7 +73,7 @@ Proyek ini untuk keperluan portofolio dan pembelajaran. Silakan gunakan dan modi
 ## Kontak Pengembang
 
 - **Nama:** Andreas Rio Christian
-- **Email:** [info@hospital.com](mailto:riochristian36@gmail.com)
+- **Email:** [riochristian36@gmail.com](mailto:riochristian36@gmail.com)
 
 ---
 
