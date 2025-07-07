@@ -73,7 +73,7 @@ Proyek ini untuk keperluan portofolio dan pembelajaran. Silakan gunakan dan modi
 ## Kontak Pengembang
 
 - **Nama:** Andreas Rio Christian
-- **Email:** [riochristian36@gmail.com](mailto:riochristian36@gmail.com)
+- **Email:** [riochristian27@gmail.com](mailto:riochristian27@gmail.com)
 
 ---
 
